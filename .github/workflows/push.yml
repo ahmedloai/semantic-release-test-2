@@ -36,7 +36,10 @@ jobs:
           branches: |    
             [ 
               'prod',
-              'dev'
+              {
+                name: 'dev', 
+                prerelease: true
+              }
             ]
           branch: prod
           extra_plugins: |
