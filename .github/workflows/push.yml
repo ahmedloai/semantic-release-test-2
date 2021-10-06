@@ -51,5 +51,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Check outputs
-        run:
+        run: |
           echo ${{ steps.release.outputs.new_release_version }}
+          echo ${{ steps.release.outputs.new_release_published }}
+          echo ${{ steps.release.outputs.new_release_channel }}
