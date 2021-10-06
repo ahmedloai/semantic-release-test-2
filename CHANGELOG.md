@@ -1,3 +1,26 @@
+# [1.7.0-dev.2](https://github.com/ahmedloai/semantic-release-test-2/compare/v1.7.0-dev.1...v1.7.0-dev.2) (2021-10-06)
+### Features
+* channel II ([fa1f4d1](https://github.com/ahmedloai/semantic-release-test-2/commit/fa1f4d1df97f720de3bd8daa82de38b691357232))
+
+# [1.7.0-dev.1](https://github.com/ahmedloai/semantic-release-test-2/compare/v1.6.1...v1.7.0-dev.1) (2021-10-06)
+### Features
+* channel ([b1a6894](https://github.com/ahmedloai/semantic-release-test-2/commit/b1a6894c7cdbb2b987d9ac70fe13080a184e65af))
+
+## [1.6.1](https://github.com/ahmedloai/semantic-release-test-2/compare/v1.6.0...v1.6.1) (2021-10-06)
+### Bug Fixes
+* PROD feature II ([a9b7743](https://github.com/ahmedloai/semantic-release-test-2/commit/a9b7743fac3e67e5ce8bb70cf963351dad16502d))
+
+# [1.6.0](https://github.com/ahmedloai/semantic-release-test-2/compare/v1.5.0...v1.6.0) (2021-10-06)
+### Features
+* DEV feature V ([c721c7e](https://github.com/ahmedloai/semantic-release-test-2/commit/c721c7eb7be68dd00e9073c0b81350a129a9dcae))
+
+# [1.5.0](https://github.com/ahmedloai/semantic-release-test-2/compare/v1.4.0...v1.5.0) (2021-10-06)
+### Features
+* DEV feature IV ([eb88975](https://github.com/ahmedloai/semantic-release-test-2/commit/eb889751f7f246247c5727b6452d0f7a3035bf68))
+
+# [1.4.0](https://github.com/ahmedloai/semantic-release-test-2/compare/v1.3.0...v1.4.0) (2021-10-06)
+### Features
+* DEV feature III ([1161e5b](https://github.com/ahmedloai/semantic-release-test-2/commit/1161e5b9e840fccec767aa93c38d8ed7373a29eb))
 ## [1.3.1](https://github.com/ahmedloai/semantic-release-test-2/compare/v1.3.0...v1.3.1) (2021-10-06)
 ### Bug Fixes
 * PROD feature II ([a9b7743](https://github.com/ahmedloai/semantic-release-test-2/commit/a9b7743fac3e67e5ce8bb70cf963351dad16502d))
