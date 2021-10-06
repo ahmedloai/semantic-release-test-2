@@ -5,25 +5,23 @@ plugins:
       releaseRules:
         - breaking: true
           release: major
-        - revert: true
-          release: patch
         - type: feat
           release: minor
         - type: feature
           release: minor
+        - revert: true
+          release: patch
         - type: fix
           release: patch
         - type: perf
           release: patch
         - type: revert
           release: patch
-        - type: docs
-          release: false
-        - type: style
-          release: false
-        - type: chore
-          release: false
         - type: refactor
+          release: patch
+        - type: deps
+          release: patch
+        - type: amend
           release: patch
         - type: test
           release: false
@@ -31,10 +29,13 @@ plugins:
           release: false
         - type: ci
           release: false
-        - type: deps
-          release: patch
-        - type: amend
-          release: patch
+        - type: docs
+          release: false
+        - type: style
+          release: false
+        - type: chore
+          release: false
+        
   - - "@semantic-release/release-notes-generator"
     - preset: conventionalcommits
       writerOpts:
