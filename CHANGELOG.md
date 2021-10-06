@@ -1,3 +1,7 @@
+## [1.6.1](https://github.com/ahmedloai/semantic-release-test-2/compare/v1.6.0...v1.6.1) (2021-10-06)
+### Bug Fixes
+* PROD feature II ([a9b7743](https://github.com/ahmedloai/semantic-release-test-2/commit/a9b7743fac3e67e5ce8bb70cf963351dad16502d))
+
 # [1.6.0](https://github.com/ahmedloai/semantic-release-test-2/compare/v1.5.0...v1.6.0) (2021-10-06)
 ### Features
 * DEV feature V ([c721c7e](https://github.com/ahmedloai/semantic-release-test-2/commit/c721c7eb7be68dd00e9073c0b81350a129a9dcae))
