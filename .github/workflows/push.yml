@@ -35,10 +35,10 @@ jobs:
           semantic_version: 17.3.7
           branches: |    
             [ 
-              'master',
-              'dev',
-              'prod'
+              'prod',
+              'dev'
             ]
+          branch: prod
           extra_plugins: |
             @semantic-release/changelog@5
             @semantic-release/git@9
