@@ -1,3 +1,7 @@
+# [1.7.0-dev.3](https://github.com/ahmedloai/semantic-release-test-2/compare/v1.7.0-dev.2...v1.7.0-dev.3) (2021-10-07)
+### Features
+* after 1.7 ([7dbe945](https://github.com/ahmedloai/semantic-release-test-2/commit/7dbe9450cd8222a5af54d25342940e779b5fece8))
+
 # [1.7.0-dev.2](https://github.com/ahmedloai/semantic-release-test-2/compare/v1.7.0-dev.1...v1.7.0-dev.2) (2021-10-06)
 ### Features
 * channel II ([fa1f4d1](https://github.com/ahmedloai/semantic-release-test-2/commit/fa1f4d1df97f720de3bd8daa82de38b691357232))
