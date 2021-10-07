@@ -1,3 +1,7 @@
+# [1.8.0-dev.2](https://github.com/ahmedloai/semantic-release-test-2/compare/v1.8.0-dev.1...v1.8.0-dev.2) (2021-10-07)
+### Bug Fixes
+*  1.8 ([292b786](https://github.com/ahmedloai/semantic-release-test-2/commit/292b786205dcd6dcf4838d9d13603db38abf1d77))
+
 # [1.8.0-dev.1](https://github.com/ahmedloai/semantic-release-test-2/compare/v1.7.0...v1.8.0-dev.1) (2021-10-07)
 ### Features
 * after 1.7 ([7dbe945](https://github.com/ahmedloai/semantic-release-test-2/commit/7dbe9450cd8222a5af54d25342940e779b5fece8))
