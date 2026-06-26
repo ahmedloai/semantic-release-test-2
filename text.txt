@@ -18,3 +18,4 @@ Feature A updated
 Feature A updated
 Feature A updated
 
+FEATURE B ADDED
